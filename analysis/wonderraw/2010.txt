@@ -1,0 +1,109 @@
+"Notes"	"County"	"County Code"	Deaths	Population	Crude Rate	Age Adjusted Rate	% of Total Deaths
+	"Barbour County, WV"	"54001"	51	306962	16.614	16.250	0.890%
+	"Berkeley County, WV"	"54003"	296	1863899	15.881	15.881	5.167%
+	"Boone County, WV"	"54005"	73	465487	15.683	14.545	1.274%
+	"Braxton County, WV"	"54007"	43	276001	15.580	15.895	0.751%
+	"Brooke County, WV"	"54009"	78	459172	16.987	17.168	1.361%
+	"Cabell County, WV"	"54011"	263	1821294	14.440	14.167	4.591%
+	"Calhoun County, WV"	"54013"	31	142483	21.757	20.439	0.541%
+	"Clay County, WV"	"54015"	38	181483	20.939	20.682	0.663%
+	"Doddridge County, WV"	"54017"	31	151785	20.424	18.477	0.541%
+	"Fayette County, WV"	"54019"	134	872204	15.363	14.722	2.339%
+	"Gilmer County, WV"	"54021"	25	153107	16.328	15.574	0.436%
+	"Grant County, WV"	"54023"	41	221595	18.502	17.203	0.716%
+	"Greenbrier County, WV"	"54025"	127	667843	19.016	18.431	2.217%
+	"Hampshire County, WV"	"54027"	67	429273	15.608	14.701	1.169%
+	"Hancock County, WV"	"54029"	98	588184	16.661	16.132	1.711%
+	"Hardy County, WV"	"54031"	47	256836	18.300	16.586	0.820%
+	"Harrison County, WV"	"54033"	223	1298906	17.168	16.747	3.892%
+	"Jackson County, WV"	"54035"	82	547012	14.991	14.257	1.431%
+	"Jefferson County, WV"	"54037"	124	965777	12.839	12.471	2.164%
+	"Kanawha County, WV"	"54039"	671	3656088	18.353	17.705	11.712%
+	"Lewis County, WV"	"54041"	56	313645	17.855	17.330	0.977%
+	"Lincoln County, WV"	"54043"	75	412896	18.164	17.169	1.309%
+	"Logan County, WV"	"54045"	109	684102	15.933	15.449	1.903%
+	"McDowell County, WV"	"54047"	112	430921	25.991	24.349	1.955%
+	"Marion County, WV"	"54049"	154	1071709	14.370	14.041	2.688%
+	"Marshall County, WV"	"54051"	107	634735	16.857	16.849	1.868%
+	"Mason County, WV"	"54053"	79	507668	15.561	15.177	1.379%
+	"Mercer County, WV"	"54055"	268	1171152	22.883	21.519	4.678%
+	"Mineral County, WV"	"54057"	95	521615	18.213	17.756	1.658%
+	"Mingo County, WV"	"54059"	72	504344	14.276	13.759	1.257%
+	"Monongalia County, WV"	"54061"	193	1783952	10.819	11.204	3.369%
+	"Monroe County, WV"	"54063"	36	257128	14.001	13.091	0.628%
+	"Morgan County, WV"	"54065"	64	318815	20.074	19.178	1.117%
+	"Nicholas County, WV"	"54067"	102	493758	20.658	19.671	1.780%
+	"Ohio County, WV"	"54069"	122	847524	14.395	14.240	2.130%
+	"Pendleton County, WV"	"54071"	24	146160	16.420	15.336	0.419%
+	"Pleasants County, WV"	"54073"	21	144759	14.507	13.868	0.367%
+	"Pocahontas County, WV"	"54075"	38	167502	22.686	19.600	0.663%
+	"Preston County, WV"	"54077"	101	613197	16.471	14.972	1.763%
+	"Putnam County, WV"	"54079"	144	1037795	13.876	13.352	2.514%
+	"Raleigh County, WV"	"54081"	275	1483327	18.539	17.755	4.800%
+	"Randolph County, WV"	"54083"	92	549600	16.739	17.025	1.606%
+	"Ritchie County, WV"	"54085"	34	194861	17.448	17.843	0.593%
+	"Roane County, WV"	"54087"	55	283817	19.379	17.602	0.960%
+	"Summers County, WV"	"54089"	56	258437	21.669	20.146	0.977%
+	"Taylor County, WV"	"54091"	35	315258	11.102	10.678	0.611%
+	"Tucker County, WV"	"54093"	27	135194	19.971	17.488	0.471%
+	"Tyler County, WV"	"54095"	32	175994	18.182	19.681	0.559%
+	"Upshur County, WV"	"54097"	72	456966	15.756	15.413	1.257%
+	"Wayne County, WV"	"54099"	108	798967	13.517	13.107	1.885%
+	"Webster County, WV"	"54101"	21	174432	12.039	12.182	0.367%
+	"Wetzel County, WV"	"54103"	58	315589	18.378	18.845	1.012%
+	"Wirt County, WV"	"54105"	14	110529	Unreliable	Unreliable	0.244%
+	"Wood County, WV"	"54107"	252	1646986	15.301	14.680	4.399%
+	"Wyoming County, WV"	"54109"	83	449913	18.448	16.273	1.449%
+"Total"			5729	34738638	16.492	15.828	100.000%
+"---"
+"Dataset: Underlying Cause of Death, 1999-2018"
+"Query Parameters:"
+"Injury Intent: Suicide"
+"States: West Virginia (54)"
+"Year/Month: 1999; 2000; 2001; 2002; 2003; 2004; 2005; 2006; 2007; 2008; 2009; 2011; 2012; 2013; 2014; 2015; 2016; 2017; 2018"
+"Group By: County"
+"Show Totals: True"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Standard Population: 2000 U.S. Std. Population"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/ucd.html for more information."
+"---"
+"Query Date: Mar 20, 2020 8:53:48 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Underlying Cause of Death"
+"1999-2018 on CDC WONDER Online Database, released in 2020. Data are from the Multiple Cause of Death Files, 1999-2018, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/ucd-icd10.html on Mar 20, 2020 8:53:48 PM"
+"---"
+Caveats:
+"1. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2014-Revision."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Unreliable."
+"3. The populations used to calculate standard age-adjusted rates are documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#2000 Standard Population."
+"4. The method used to calculate age-adjusted rates is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/ucd.html#Age-Adjusted Rates."
+"5. Deaths for persons of unknown age are included in counts and crude rates, but are not included in age-adjusted rates."
+"6. The population figures for year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018"
+"postcensal series released by NCHS on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for"
+"year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS"
+"on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The"
+"population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal"
+"series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013. The population figures for year 2011 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2011 postcensal series released by NCHS on July 18,"
+"2012. Population figures for 2010 are April 1 Census counts. The population figures for years 2001 - 2009 are bridged-race"
+"estimates of the July 1 resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on"
+"October 26, 2012. Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999"
+"intercensal series of July 1 estimates. Population figures for the infant age groups are the number of live births."
+"<br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from previously published reports, due to"
+"use of the population estimates which were available at the time of release."
+"7. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/ucd.html#Age Group."
